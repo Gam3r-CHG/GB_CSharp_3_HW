@@ -20,6 +20,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW4_Server", "HW4_Server\HW
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW4", "HW4\HW4.csproj", "{160F8087-3B7C-483F-9989-1B075DFF9E8B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW5", "HW5\HW5.csproj", "{71360A8A-6C59-42AD-B642-524DF56D316D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +68,9 @@ Global
 		{160F8087-3B7C-483F-9989-1B075DFF9E8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{160F8087-3B7C-483F-9989-1B075DFF9E8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{160F8087-3B7C-483F-9989-1B075DFF9E8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71360A8A-6C59-42AD-B642-524DF56D316D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71360A8A-6C59-42AD-B642-524DF56D316D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71360A8A-6C59-42AD-B642-524DF56D316D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71360A8A-6C59-42AD-B642-524DF56D316D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
